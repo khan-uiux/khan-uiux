@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there, I'm Irfan Khan! 👋
 
-<!--
-**khan-uiux/khan-uiux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 About Me
+- 🎨 **UI/UX Designer** with 3+ years of experience.
+- 🚀 Currently working on:
+  - A food delivery mobile app.
+  - A fruits and veggies eCommerce landing page.
+- 🌱 Learning: **React.js** and **Angular.js**.
 
-Here are some ideas to get you started:
+## 💼 Skills
+- **Frontend Development:** HTML, CSS, JavaScript
+- **Design Tools:** Figma, Adobe XD, Photoshop
+- **Other Skills:** Wireframing, Prototyping, Responsive Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Projects
+- 🛒 **Ecommerce Landing Page:** [View Project](#)
+- 📖 **Kids Comic Website UI:** [View Project](#)
+- 🔗 **Portfolio:** [Visit Here](https://khan-uiux.github.io/)
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khan-uiux&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+- ✉️ Email: [khanuiux86@gmail.com](mailto:khanuiux86@gmail.com)
+- 📍 Location: Gurgaon
